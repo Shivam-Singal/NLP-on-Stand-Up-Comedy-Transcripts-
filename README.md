@@ -3,51 +3,51 @@ Comparing stand up comedians using natural language processing
 
 ## Features
 
-**_Getting the Data_**
+**_1.1 Getting the Data_**
 
 <div align='center'>
   <img src='./media/getting_the_data.png' alt='Login' />
 </div><br>
 
-**_Cleaning the Data_**
+**_1.2 Cleaning the Data_**
 
 <div align='center'>
   <img src='./media/clean_data.png' alt='Profile Page' height='400px' />
 </div><br>
 
-**_Document term matrix_**
+**_1.3 Document term matrix_**
 
 <div align='center'>
   <img src='./media/dtm.png' alt='Article Details' />
 </div><br>
 
-**_View an Authors Articles_**
+**_2.1 Most common words_**
 
 <div align='center'>
-  <img src='./media/screenshots/user_posts.png' alt='Authors Articles' height='440px' />
+  <img src='./media/top30_words.png' alt='Authors Articles' height='440px' />
 </div><br>
 
-**_Create Your Own Articles_**
+**_2.2 Size of vocabulary_**
 
 <div align='center'>
-  <img src='./media/screenshots/article_creation.png' alt='Article Creation' height='420px' />
+  <img src='./media/unique_words.png' alt='Article Creation' height='420px' />
 </div><br>
 
 
-**_Article Author can Edit or Delete Their Article_**
+**_2.3 Words per minute_**
 
 <div align='center'>
-  <img src='./media/screenshots/edit_delete.png' alt='Article Edit or Deletion' />
+  <img src='./media/words_per_minute.png' alt='Article Edit or Deletion' />
 </div><br>
 
-**_Users Password can be Reset_**
+**_2.4 Amount of profanity_**
 
 <div align='center'>
-  <img src='./media/screenshots/password_reset.png' alt='Password Reset' />
+  <img src='profanity.png' alt='Password Reset' />
 </div><br>
 
-**_Secret Admin Panel to Manage Users and Articles_**
+**_3.1 Sentiment of Routine_**
 
 <div align='center'>
-  <img src='./media/screenshots/admin.jpeg' alt='Admin Panel' />
+  <img src='./media/subjectivity_polarity.png' alt='Admin Panel' />
 </div><br>
