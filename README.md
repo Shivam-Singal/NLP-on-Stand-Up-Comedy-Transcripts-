@@ -6,19 +6,19 @@ Comparing stand up comedians using natural language processing
 **_Login or Create an Account_**
 
 <div align='center'>
-  <img src='./media/getting_the_data.jpeg' alt='Login' />
+  <img src='./media/getting_the_data.png' alt='Login' />
 </div><br>
 
 **_View and Customize Your Profile_**
 
 <div align='center'>
-  <img src='./media/screenshots/profile.png' alt='Profile Page' height='400px' />
+  <img src='./media/screenshots/getting_the_data.png' alt='Profile Page' height='400px' />
 </div><br>
 
 **_View the Articles_**
 
 <div align='center'>
-  <img src='./media/screenshots/article.jpeg' alt='Article Details' />
+  <img src='./media/scr/getting_the_data.jpeg' alt='Article Details' />
 </div><br>
 
 **_View an Authors Articles_**
