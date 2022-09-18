@@ -8,6 +8,10 @@ Comparing stand up comedians using natural language processing
 <div align='center'>
   <img src='./media/getting_the_data.png' alt='Getting the Data />
 </div><br>
+                                               
+                                               
+                                               
+                                               
 
 **_1.2 Cleaning the Data_**
 
