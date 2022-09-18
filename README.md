@@ -3,22 +3,22 @@ Comparing stand up comedians using natural language processing
 
 ## Features
 
-**_Login or Create an Account_**
+**_Getting the Data_**
 
 <div align='center'>
   <img src='./media/getting_the_data.png' alt='Login' />
 </div><br>
 
-**_View and Customize Your Profile_**
+**_Cleaning the Data_**
 
 <div align='center'>
-  <img src='./media/screenshots/getting_the_data.png' alt='Profile Page' height='400px' />
+  <img src='./media/clean_data.png' alt='Profile Page' height='400px' />
 </div><br>
 
-**_View the Articles_**
+**_Document term matrix_**
 
 <div align='center'>
-  <img src='./media/scr/getting_the_data.jpeg' alt='Article Details' />
+  <img src='./media/dtm.png' alt='Article Details' />
 </div><br>
 
 **_View an Authors Articles_**
