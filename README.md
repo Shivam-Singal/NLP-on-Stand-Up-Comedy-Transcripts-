@@ -28,7 +28,7 @@ Comparing stand up comedians using natural language processing
   <img src='./media/top30_words.png' alt='Most common words' height='440px' />
                                                                            
     1.)Ali Wong says the s-word a lot and talks about her husband. 
-     2.)A lot of people use the F-word.                                                                        
+    2.)A lot of people use the F-word.                                                                        
 </div><br>
 
 **_2.2 Size of vocabulary_**
@@ -37,6 +37,7 @@ Comparing stand up comedians using natural language processing
   <img src='./media/unique_words.png' alt='Size of vocabulary' height='420px' />
                                                                              
   1.)Ricky Gervais (British comedy) and Bill Burr (podcast host) use a lot of words in their comedy.
+  
   2.)Louis C.K. (self-depricating comedy) and Anthony Jeselnik (dark humor) have a smaller vocabulary
 
 </div><br>
