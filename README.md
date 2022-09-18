@@ -42,7 +42,7 @@ Comparing stand up comedians using natural language processing
 **_2.4 Amount of profanity_**
 
 <div align='center'>
-  <img src='profanity.png' alt='Amount of profanity' />
+  <img src='./media/profanity.png' alt='Amount of profanity' />
 </div><br>
 
 **_3.1 Sentiment of Routine_**
@@ -55,30 +55,30 @@ Comparing stand up comedians using natural language processing
 **_3.2 Sentiment of Routine Over Time_**
 
 <div align='center'>
-  <img src='profanity.png' alt='Password Reset' />
+  <img src='./media/profanity.png' alt='Password Reset' />
 </div><br>
 
 **_4.1 Topic modelling _**
 
 <div align='center'>
-  <img src='topic modelling.png' alt='Topic modelling' />
+  <img src='./media/topic modelling.png' alt='Topic modelling' />
 </div><br>
 
 **_4.2 Topic modelling(noun and adjectives) _**
 
 <div align='center'>
-  <img src='topic_modelling_final.png' alt='Topic modelling' />
+  <img src='./media/topic_modelling_final.png' alt='Topic modelling' />
 </div><br>
 
 **_5.1 Markov Chain _**
 
 <div align='center'>
-  <img src='markov_chain.png' alt='Markov Chain' />
+  <img src='./media/markov_chain.png' alt='Markov Chain' />
 </div><br>
 
 **_5.2 Text generation _**
 
 <div align='center'>
-  <img src='text_generation.png' alt='Text generation' height='420px'/>
+  <img src='./media/text_generation.png' alt='Text generation' height='420px'/>
 </div><br>
 
