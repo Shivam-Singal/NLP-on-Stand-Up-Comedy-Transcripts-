@@ -3,7 +3,7 @@ Comparing stand up comedians using natural language processing
 
 ## Features
 
-**_1.1 Getting the Data_**
+**_1.1 Getting and Cleaning the Data_**
 
 <div align='center'>
   <img src='./media/getting_the_data.png' alt='Getting the Data />
@@ -16,7 +16,7 @@ Comparing stand up comedians using natural language processing
   <img src='./media/clean_data.png' alt='Cleaning the Data'  />
 </div><br>
 
-**_1.3 Document term matrix_**
+**_1.2 Document term matrix_**
 
 <div align='center'>
   <img src='./media/dtm.png' alt='Document term matrix' />
