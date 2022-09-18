@@ -59,25 +59,25 @@ Comparing stand up comedians using natural language processing
   <img src='./media/sentiment_over_time.png' alt='Sentiment of Routine Over Time' />
 </div><br>
 
-**_ 4.1 Topic modelling _**
+**_4.1 Topic modelling_**
 
 <div align='center'>
   <img src='./media/topic modelling.png' alt='Topic modelling' />
 </div><br>
 
-**_ 4.2 Topic modelling(noun and adjectives) _**
+**_4.2 Topic modelling(noun and adjectives)_**
 
 <div align='center'>
   <img src='./media/topic_modelling_final.png' alt='Topic modelling' />
 </div><br>
 
-**_ 5.1 Markov Chain _**
+**_5.1 Markov Chain_**
 
 <div align='center'>
   <img src='./media/markov_chain.png' alt='Markov Chain' />
 </div><br>
 
-**_ 5.2 Text generation _**
+**_5.2 Text generation_**
 
 <div align='center'>
   <img src='./media/text_generation.png' alt='Text generation' height='420px'/>
