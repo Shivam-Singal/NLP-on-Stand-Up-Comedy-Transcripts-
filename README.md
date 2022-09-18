@@ -1,16 +1,12 @@
 # NLP-on-Stand-Up-Comedy-Transcripts-
 Comparing stand up comedians using natural language processing
 
-<img src='./media/screenshots/blog.jpeg' alt='All Articles' />
-
-
 ## Features
 
 **_Login or Create an Account_**
 
 <div align='center'>
-  <img src='./media/screenshots/authentication.png' alt='Login' width='49%' />
-  <img src='./media/screenshots/sign_up.png' alt='Sign Up' width='49%' />
+  <img src='./media/screenshots/getting_the_data.jpeg' alt='Login' />
 </div><br>
 
 **_View and Customize Your Profile_**
