@@ -55,7 +55,7 @@ Comparing stand up comedians using natural language processing
 **_3.2 Sentiment of Routine Over Time_**
 
 <div align='center'>
-  <img src='./media/profanity.png' alt='Password Reset' />
+  <img src='./media/sentiment_over_time.png' alt='Sentiment of Routine Over Time' />
 </div><br>
 
 **_4.1 Topic modelling _**
