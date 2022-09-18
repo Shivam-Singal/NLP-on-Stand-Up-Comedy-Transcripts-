@@ -49,7 +49,7 @@ Comparing stand up comedians using natural language processing
 
 <div align='center'>
   <img src='./media/subjectivity_polarity.png' alt='Sentiment of Routine' width='49%' />
-  <img src='./media/subjectivity_polarity_graph.png.png' alt='Sentiment of Routine' width='49%' />
+  <img src='./media/subjectivity_polarity_graph.png' alt='Sentiment of Routine' width='49%' />
 </div><br>
 
 **_3.2 Sentiment of Routine Over Time_**
