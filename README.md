@@ -26,6 +26,7 @@ Comparing stand up comedians using natural language processing
 
 <div align='center'>
   <img src='./media/top30_words.png' alt='Most common words' height='440px' />
+                                                                           
     1.)Ali Wong says the s-word a lot and talks about her husband. 
     2.)A lot of people use the F-word. Let's dig into that later.                                                                       
 </div><br>
