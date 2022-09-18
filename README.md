@@ -49,5 +49,6 @@ Comparing stand up comedians using natural language processing
 **_3.1 Sentiment of Routine_**
 
 <div align='center'>
-  <img src='./media/subjectivity_polarity.png' alt='Admin Panel' />
+  <img src='./media/subjectivity_polarity.png' alt='Login' width='49%' />
+  <img src='./media/subjectivity_polarity_graph.png.png' alt='Sign Up' width='49%' />
 </div><br>
