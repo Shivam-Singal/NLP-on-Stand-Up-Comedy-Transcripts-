@@ -6,44 +6,44 @@ Comparing stand up comedians using natural language processing
 **_1.1 Getting the Data_**
 
 <div align='center'>
-  <img src='./media/getting_the_data.png' alt='Login' />
+  <img src='./media/getting_the_data.png' alt='Getting the Data />
 </div><br>
 
 **_1.2 Cleaning the Data_**
 
 <div align='center'>
-  <img src='./media/clean_data.png' alt='Profile Page' height='400px' />
+  <img src='./media/clean_data.png' alt='Cleaning the Data' height='400px' />
 </div><br>
 
 **_1.3 Document term matrix_**
 
 <div align='center'>
-  <img src='./media/dtm.png' alt='Article Details' />
+  <img src='./media/dtm.png' alt='Document term matrix' />
 </div><br>
 
 **_2.1 Most common words_**
 
 <div align='center'>
-  <img src='./media/top30_words.png' alt='Authors Articles' height='440px' />
+  <img src='./media/top30_words.png' alt='Most common words' height='440px' />
 </div><br>
 
 **_2.2 Size of vocabulary_**
 
 <div align='center'>
-  <img src='./media/unique_words.png' alt='Article Creation' height='420px' />
+  <img src='./media/unique_words.png' alt='Size of vocabulary' height='420px' />
 </div><br>
 
 
 **_2.3 Words per minute_**
 
 <div align='center'>
-  <img src='./media/words_per_minute.png' alt='Article Edit or Deletion' />
+  <img src='./media/words_per_minute.png' alt='Words per minute' />
 </div><br>
 
 **_2.4 Amount of profanity_**
 
 <div align='center'>
-  <img src='profanity.png' alt='Password Reset' />
+  <img src='profanity.png' alt='Amount of profanity' />
 </div><br>
 
 **_3.1 Sentiment of Routine_**
@@ -81,6 +81,6 @@ Comparing stand up comedians using natural language processing
 **_5.2 Text generation _**
 
 <div align='center'>
-  <img src='text_generation.png' alt='Text generation' />
+  <img src='text_generation.png' alt='Text generation' height='420px'/>
 </div><br>
 
