@@ -33,7 +33,6 @@ Comparing stand up comedians using natural language processing
   <img src='./media/unique_words.png' alt='Size of vocabulary' height='420px' />
 </div><br>
 
-
 **_2.3 Words per minute_**
 
 <div align='center'>
@@ -70,7 +69,6 @@ Comparing stand up comedians using natural language processing
 <div align='center'>
   <img src='topic_modelling_final.png' alt='Topic modelling' />
 </div><br>
-
 
 **_5.1 Markov Chain _**
 
