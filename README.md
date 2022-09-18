@@ -9,10 +9,10 @@ Comparing stand up comedians using natural language processing
   <img src='./media/getting_the_data.png' alt='Getting the Data />
 </div><br>
 
-**_1.1 Getting the Data_**
+**_1.2 Cleaning the Data_**
 
 <div align='center'>
-  <img src='./media/clean_data.png' alt='Cleaning the Data' height='400px' />
+  <img src='./media/clean_data.png' alt='Cleaning the Data'  />
 </div><br>
 
 **_1.3 Document term matrix_**
