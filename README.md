@@ -37,7 +37,7 @@ Comparing stand up comedians using natural language processing
   <img src='./media/unique_words.png' alt='Size of vocabulary' height='420px' />
                                                                              
                                1.)Ricky Gervais (British comedy) and Bill Burr (podcast host) use a lot of words in their comedy.
-                                                                             2.)Louis C.K. (self-depricating comedy) and Anthony Jeselnik (dark humor) have a smaller vocabulary
+                               2.)Louis C.K. (self-depricating comedy) and Anthony Jeselnik (dark humor) have a smaller vocabulary
 
 </div><br>
 
@@ -45,12 +45,19 @@ Comparing stand up comedians using natural language processing
 
 <div align='center'>
   <img src='./media/words_per_minute.png' alt='Words per minute' />
+                                                                
+                                            1.) Joe Rogan (blue comedy) and Bill Burr (podcast host) talk fast
+                                             2.)Bo Burnham (musical comedy) and Anthony Jeselnik (dark humor) talk slow
 </div><br>
 
 **_2.4 Amount of profanity_**
 
 <div align='center'>
   <img src='./media/profanity.png' alt='Amount of profanity' />
+                                                            
+                                          1.) Averaging 2 F-Bombs Per Minute! - I don't like too much swearing, especially the f-word, which is probably why I've never heard of Bill Bur, Joe Rogan and Jim Jefferies.
+                                          2.)Clean Humor - It looks like profanity might be a good predictor of the type of comedy I like. Besides Ali Wong, my two other favorite comedians in this group are John Mulaney and Mike Birbiglia.                 
+                                                   
 </div><br>
 
 **_3.1 Sentiment of Routine_**
